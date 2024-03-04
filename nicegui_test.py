@@ -1,5 +1,4 @@
 from fastapi import FastAPI
-import nicegui
 from nicegui import app, ui
 #import uvicorn
 
